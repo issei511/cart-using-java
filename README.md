@@ -7,8 +7,7 @@ Details :
     ==>On operating system linux debain 
 
 Logic : 
-
-  ![alt text](ttps://github.com/issei511/cart-using-java/raw/main/2.jpg)
-  
-  ![alt text](ttps://github.com/issei511/cart-using-java/raw/main/1.jpg)
-
+  Page 1 : 
+  ![alt text](https://github.com/issei511/cart-using-java/raw/main/2.jpg)
+  Page 2 :
+  ![alt text](https://github.com/issei511/cart-using-java/raw/main/1.jpg)
