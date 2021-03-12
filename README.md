@@ -8,7 +8,7 @@ Details :
 
 Logic : 
 
-  ![alt text](https://github.com/[issei511]/[cart-using-java]/blob/[main]/1.jpg?raw=true)
+  ![alt text](ttps://github.com/issei511/cart-using-java/raw/main/2.jpg)
   
-  ![alt text]()
+  ![alt text](ttps://github.com/issei511/cart-using-java/raw/main/1.jpg)
 
