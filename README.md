@@ -5,3 +5,10 @@ Details :
     ==>Optmised-version
     ==>Tested on jdk 12.x.x
     ==>On operating system linux debain 
+
+Logic : 
+
+  ![alt text](https://github.com/[issei511]/[cart-using-java]/blob/[main]/1.jpg?raw=true)
+  
+  ![alt text]()
+
